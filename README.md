@@ -1,8 +1,8 @@
-# YT-Downloader
+# YT-Downloader V1.2
 Downloads Music/Videos from YouTube.
 - YouTube Downloader will download YouTube videos with a provided link. You may provide the link as an argument or the 
 program will ask for the user to input a link upon running. 
-- The user then chooses whether to download the file as an mp3(Audio Only - For music), or mp4(Whole Video) file.
+- The user then chooses whether to download the file as an mp4(Audio Only - For music), or the whole video in it's highest resolution.
 
 
     Copyright (C) 2023  MazZ
