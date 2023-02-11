@@ -19,14 +19,14 @@ Copyright (C) 2023  MazZ
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 """
-"""YT-Downloader(ytd.py) will download YouTube videos with a provided link. You may provide the link as an argument or the 
-program will ask for the user to input a link upon running. The user then chooses whether to download the file as an 
-mp4(Audio Only - For music), or mp4(Whole Video) file."""
+
+"""=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=ytd.py README=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+# YT-Downloader(ytd.py) will download YouTube videos with a provided link. 
+# You may provide the link as an argument or the program will ask for the user to input a link upon running. 
+# The user then chooses whether to download the file as an mp4(Audio Only - For music), or the whole video in it's 
+highest rendered resolution on YT.
 """
-Version 1.0: Able to download mp4 to specified path.
-TODO:
-Add option to download Audio only(mp3). 
-"""
+
 
 # Path for where videos/mp3 files will be downloaded. Specify your own.
 path = "C:/Users/kmazz/Desktop/YTvideos/"
