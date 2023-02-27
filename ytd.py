@@ -57,7 +57,7 @@ def vid_download(url):
                   f"Downloaded: {yt.title}\n"
                   f"Author: {yt.author}\n"
                   f"Saved in: '{path}\n"
-                  f"Filesize: {fs // 1000000}MB")
+                  f"FileSize: {fs // 1000000}MB")
             done = True
 
 
@@ -85,7 +85,7 @@ def music_download(url):
                   f"Downloaded: {yt.title}\n"
                   f"Author: {yt.author}\n"
                   f"Saved in: '{path}\n"
-                  f"Filesize: {fs // 1000000}MB")
+                  f"FileSize: {fs // 1000000}MB")
             done = True
 
 
